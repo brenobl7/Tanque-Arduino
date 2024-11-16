@@ -1,7 +1,7 @@
 # Tanque-Arduino
 
 Trabalho feito por Augusto, Breno, Rhandres e Theo. <br>
-Segue respectivamente os instagrans dos participantes<br>
+Segue respectivamente os instagrans dos participantes:<br>
 @sichinel_
 @breno_germano006
 @rhandres24
